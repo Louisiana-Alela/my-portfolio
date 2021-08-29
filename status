@@ -1,4 +1,34 @@
-[33mcommit 8dbe09a227f023db89fe6be1172182f1df60120e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[33mcommit 79a302d5802e4fda22ae87dd802df5da8ca5f875[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
+Date:   Sun Aug 29 13:00:11 2021 +0300
+
+    Add aboutme.html file
+
+[33mcommit d01b7364cd672b1e98f67fb51ec14ce009a10533[m
+Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
+Date:   Sun Aug 29 12:52:39 2021 +0300
+
+    Add description section
+
+[33mcommit 896a15a19c3e3d563d601f175a5772600ebf0390[m
+Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
+Date:   Sun Aug 29 12:40:47 2021 +0300
+
+    Add my project section
+
+[33mcommit 910bb5794cb47934e0905d707508fcf8f8e9b18d[m
+Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
+Date:   Sun Aug 29 12:15:30 2021 +0300
+
+    Update my profile
+
+[33mcommit a4bf1404542b7ec94eddd11b1c22b04e0f8abf8d[m
+Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
+Date:   Sun Aug 29 12:00:19 2021 +0300
+
+    Add modifications to index.html
+
+[33mcommit 8dbe09a227f023db89fe6be1172182f1df60120e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
 Author: Louisiana-Alela <louisiana.alela@student.moringaschool.com>
 Date:   Sun Aug 29 11:37:49 2021 +0300
 
@@ -10,7 +40,7 @@ Date:   Sun Aug 29 10:44:29 2021 +0300
 
     Add file index.html
 
-[33mcommit fb9c5e6e234f408d367fb578734e69ca3d96c8c0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit fb9c5e6e234f408d367fb578734e69ca3d96c8c0[m
 Author: Louie <89392856+Louisiana-Alela@users.noreply.github.com>
 Date:   Fri Aug 27 19:31:41 2021 +0300
 
