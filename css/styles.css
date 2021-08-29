@@ -16,3 +16,19 @@
 h2{
     text-align: center;
 }
+
+.background{
+    background-color: lightpink;
+}
+
+.education{
+    background-color: lightseagreen;
+}
+
+.programming{
+    background-color: lime;
+}
+
+.interest{
+    background-color: olive;
+}
