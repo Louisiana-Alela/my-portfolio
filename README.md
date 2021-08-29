@@ -2,5 +2,5 @@
 Author name: Louisiana Alela
 Description of project: It talks about me as a person and the projects that I have done so far.
 Project setup: Requires internet connection, web browser so that you can access the link to the project.
-Link to the live site :
+Link to the live site :https://louisiana-alela.github.io/my-portfolio/
 Copyright and license information is on the LICENSE page.
