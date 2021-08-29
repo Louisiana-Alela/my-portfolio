@@ -1,0 +1,10 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+.img{
+    height: 30%;
+
+    float: inherit;
+}
